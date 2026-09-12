@@ -1,0 +1,6 @@
+# Discussion Record
+
+| Platform | Community or account | Link | My first contribution | Human answer | My next answer | Design change |
+|---|---|---|---|---|---|---|
+| Reddit | r/Accounting | https://www.reddit.com/r/Accounting/comments/1vrisw2/ap_clerksaccountants_what_is_your_gut_feeling/ | Asked AP Clerks/Accountants for their "gut feeling" triggers for rejecting a vendor bank change request and rules for calling vs emailing. | [Copy and paste the exact text of the comment you received here] | *Pending: I will help you write this.* | *Pending: We will extract the agent feature here.* |
+| Reddit | r/corporatefinance | https://www.reddit.com/r/corporatefinance/comments/1vriuby/ap_clerksaccountants_what_is_your_gut_feeling/ | Same text as r/Accounting (mistake: cross-posted identical text 3 mins later) | AutoModerator removed as spam (Rule violation: cross-posting/spam) | None — will not repost identical text. Will rewrite specifically for this sub tomorrow. | **Process change:** Max 1-2 communities per day, fully rewrite text for each audience to avoid spam filters. |
